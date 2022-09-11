@@ -1,1 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wght@0,300;1,300&display=swap');
 
+* {
+   text-align: center;
+   background-color: #9D69A3;
+   color: #37000A;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 25px;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 50px;
+    padding: 50px;
+    background-color: #EADEFF;
+    text-align: center;
+}
+
+a {
+    padding: 15px;
+    background: #EADEFF;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+body {
+    background-color: #EADEFF;
+}
